@@ -64,7 +64,6 @@ Provides a complete student information database to facilitate administrators to
 <!-- > **备注:**  主要是ASP.NET -->
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="c#"/>
-<!--数据库-->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
 
 
