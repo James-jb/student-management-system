@@ -8,7 +8,7 @@ These are translated by a translator. If you don’t understand English, please 
 
 
 
-<h3>project brief:</h3>
+<h3>project brief: 👽</h3>
 <!-- <h3>项目简介：</h3> -->
 The student management system is a comprehensive information management platform designed to simplify the school's management process of student information and improve management efficiency.
 <!-- 学生管理系统是一个综合性的信息管理平台，旨在简化学校对学生信息的管理流程，提高管理效率。 -->
@@ -19,7 +19,7 @@ Provides school administrators with a centralized and convenient web operation i
 
 
 <br>
-<h3>Functions and features:</h3>
+<h3>Functions and features: 🍃</h3>
 <!-- <h3>功能和特性：</h3> -->
 <ul>
 <li>
@@ -57,17 +57,15 @@ Provides a complete student information database to facilitate administrators to
 
 
 <br>
-<h3>Technology stack and dependencies:</h3>
+<h3>Technology stack and dependencies: 🌵</h3>
 <!-- <h3>技术栈和依赖：</h3> -->
 
-> **Note:** Mainly ASP.NET
 <!-- > **备注:**  主要是ASP.NET -->
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="c#"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
 
-
 <br>
-<h3>Examples and demos:</h3>
-<!-- <h3>示例和演示：</h3> -->
+<h3>Examples and demos: 🐈</h3>
+<!-- <h3>示例和演示: /h3> -->
 跟新中...
