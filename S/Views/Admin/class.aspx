@@ -1,41 +1,45 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Views/Admin/AdminMaster.Master" AutoEventWireup="true" CodeBehind="Products.aspx.cs" Inherits="S.Views.Admin.Products" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Views/Admin/AdminMaster.Master" AutoEventWireup="true" CodeBehind="class.aspx.cs" Inherits="S.Views.Admin.WebForm1" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="MyContent" runat="server">
-
     <%--标题--%>
     <div class="container-fluid">
         <div class="row">
             <div class="col">
-                <h1 class="text-center">商品</h1>
+                <h1 class="text-center">班级管理</h1>
             </div>
         </div>
     </div>
 
     <div class="row">
         <div class="col-md-4">
+
+            <%--学号 要 创建吗--%>
             <div class="mb-3">
-                <label for="" class="form-labe text-success">名称</label>
+                <label for="" class="form-labe text-success">学号ID</label>
                 <input type="text" placeholder="" autocomplete="off" class="form-control" />
             </div>
 
+
+
             <div class="mb-3">
-                <label for="" class="form-labe text-success">名称</label>
-                <input type="text" placeholder="" autocomplete="off" class="form-control" />
+                <label for="" class="form-labe text-success">系部</label>
+
+                <asp:DropDownList ID="DropDownList2" runat="server" class="form-control">
+                    <asp:ListItem>信息技术系</asp:ListItem>
+                    <asp:ListItem>智能制造系</asp:ListItem>
+                    <asp:ListItem>财经商贸系</asp:ListItem>
+                </asp:DropDownList>
             </div>
 
             <div class="mb-3">
-                <label for="" class="form-labe text-success">名称</label>
+                <label for="" class="form-labe text-success">班级</label>
                 <input type="text" placeholder="" autocomplete="off" class="form-control" />
             </div>
-            <div class="mb-3">
-                <label for="" class="form-labe text-success">分类</label>
-                <%--下拉列表--%>
-                <asp:DropDownList ID="DropDownList1" runat="server" class="form-control"></asp:DropDownList>
-                <%--<input type="text" placeholder="" autocomplete="off" class="form-control" />--%>
-            </div>
 
+
+            <%--这里是按钮--%>
             <div class="row">
                 <div class="d-grid col-md-4">
                     <asp:Button ID="Button1" runat="server" Text="编辑" class="btn-warning btn btn-block" Width="100px" />
@@ -54,5 +58,4 @@
             <asp:GridView ID="GridView1" runat="server"></asp:GridView>
         </div>
     </div>
-
 </asp:Content>

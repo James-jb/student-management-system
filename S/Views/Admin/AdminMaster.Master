@@ -40,21 +40,21 @@
                     <div class="mb-3">
                         <img src="#" height="53px" width="28px" />
                         <a href="#">
-                            <label>商品</label>
+                            <label>学生信息</label>
                         </a>
                     </div>
 
                     <div class="mb-3">
                         <img src="#" height="53px" width="28px" />
                         <a href="#">
-                            <label>用户</label>
+                            <label>班级管理</label>
                         </a>
                     </div>
 
                     <div class="mb-3">
                         <img src="#" height="53px" width="28px" />
                         <a href="#">
-                            <label>商品</label>
+                            <label>成绩管理</label>
                         </a>
                     </div>
 

@@ -1,6 +1,14 @@
 ﻿<%@ Page Language="C#" %>
 
 <!DOCTYPE html>
+<script runat="server">
+
+    protected void LoginBtn_Click(object sender, EventArgs e)
+    {
+
+    }
+</script>
+
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <meta charset="utf-8" />
@@ -36,14 +44,14 @@
                     <%--用户名 密码 按钮--%>
                     <div class="mt-3">
                         <label for="" class="form-label">用户名</label>
-                        <input type="text" placeholder="用户名" autocomplete="off" class="form-control" />
+                        <input type="text" placeholder="用户名" autocomplete="off" class="form-control" id="UnameTb" />
                     </div>
                     <div class="mt-3">
                         <label for="" class="form-label">密码</label>
-                        <input type="password" placeholder="密码" autocomplete="off" class="form-control" />
+                        <input type="password" placeholder="密码" autocomplete="off" class="form-control" id="PasswordTb" />
                     </div>
                     <div class="mt-3 d-grid">
-                        <asp:Button ID="Button1" runat="server" Text="登录" CssClass="btn-success btn" />
+                        <asp:Button ID="LoginBtn" runat="server" Text="登录" CssClass="btn-success btn" OnClick="LoginBtn_Click" />
                     </div>
                 </form>
             </div>
