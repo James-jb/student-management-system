@@ -1,0 +1,31 @@
+创建一个Struts-Hibernate-mysql为名称的数据库
+
+要数据库所有 · 文件
+SQL 源代码
+Excel 文件表
+
+	管理员登录	admin表
+unameTb = 用户名
+passwordTb = 密码
+loginBtn = 登录
+
+	班级表	class
+x_id = 学号ID
+c_xibu = 系部、单选\
+c_class = 班级、单选\
+
+	成绩表 	grade
+x_id = 学号ID
+k_name = 课程名称、单选
+k_cj = 成绩、小数
+
+	学生信息表 	student
+x_id = 学号ID、int \唯一 不为空
+name = 姓名、文字\不为空
+sex = 性别、单选\不为空
+age = 年龄、整数型\不为空
+phone = 联系方式、11位数\不为空 bigint
+
+
+
+

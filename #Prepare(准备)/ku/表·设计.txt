@@ -1,0 +1,11 @@
+	admin表
+123	123
+
+	班级表	class
+
+
+	成绩表 	grade
+
+
+	学生信息表 	student
+

@@ -13,5 +13,10 @@ namespace S.Views.Admin
         {
 
         }
+
+        protected void DropDownList2_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

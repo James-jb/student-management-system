@@ -1,13 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\S",
-    "\\S\\Assets",
-    "\\S\\Assets\\Lib",
-    "\\S\\Views",
-    "\\S\\Views\\Admin",
-    "\\S\\Views\\Customer"
+    ""
   ],
-  "SelectedNode": "\\S\\S.sln",
+  "SelectedNode": "\\S.sln",
   "PreviewInSolutionExplorer": true
 }

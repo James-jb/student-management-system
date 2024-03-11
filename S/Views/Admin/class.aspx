@@ -26,7 +26,7 @@
             <div class="mb-3">
                 <label for="" class="form-labe text-success">系部</label>
 
-                <asp:DropDownList ID="DropDownList2" runat="server" class="form-control">
+                <asp:DropDownList ID="DropDownList2" runat="server" class="form-control" OnSelectedIndexChanged="DropDownList2_SelectedIndexChanged">
                     <asp:ListItem>信息技术系</asp:ListItem>
                     <asp:ListItem>智能制造系</asp:ListItem>
                     <asp:ListItem>财经商贸系</asp:ListItem>

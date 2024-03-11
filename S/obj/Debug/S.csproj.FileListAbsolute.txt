@@ -57,3 +57,7 @@ E:\github\student-management-system\S\obj\Debug\S.csproj.CoreCompileInputs.cache
 E:\github\student-management-system\S\obj\Debug\S.csproj.CopyComplete
 E:\github\student-management-system\S\obj\Debug\S.dll
 E:\github\student-management-system\S\obj\Debug\S.pdb
+E:\student-management-system\S\obj\Debug\S.csproj.AssemblyReference.cache
+E:\student-management-system\S\obj\Debug\S.csproj.CoreCompileInputs.cache
+E:\student-management-system\S\obj\Debug\S.dll
+E:\student-management-system\S\obj\Debug\S.pdb

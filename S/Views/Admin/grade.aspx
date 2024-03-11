@@ -54,7 +54,8 @@
 
         <%--这里 显示数据--%>
         <div class="col-md-8">
-            <asp:GridView ID="ManufactList" runat="server" OnSelectedIndexChanged="ManufactList_SelectedIndexChanged"></asp:GridView>
+            <asp:GridView ID="ManufactList" runat="server" OnSelectedIndexChanged="ManufactList_SelectedIndexChanged" DataSourceID="SqlDataSource1"></asp:GridView>
+            <asp:SqlDataSource runat="server" ID="SqlDataSource1"></asp:SqlDataSource>
         </div>
     </div>
 </asp:Content>
