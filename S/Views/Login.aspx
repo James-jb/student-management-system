@@ -35,7 +35,9 @@
                         <div class="row">
                             <div class="col-md-4"></div>
                             <div class="col-md-8">
-                                <img scr="" height="195px" width="162px" />
+                                <%--图片位置--%>
+                                <asp:Image ID="Image1" runat="server" ImageUrl="../Assets/Images/L2.jpeg"  height="195px" width="162px"/>
+                                <%--<img scr="" height="195px" width="162px" />--%>
                             </div>
                         </div>
                         

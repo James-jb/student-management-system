@@ -15,31 +15,31 @@ namespace S.Views.Admin
     {
 
         /// <summary>
-        /// id 控件。
+        /// x_id 控件。
         /// </summary>
         /// <remarks>
         /// 自动生成的字段。
         /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlInputText id;
+        protected global::System.Web.UI.HtmlControls.HtmlInputText x_id;
 
         /// <summary>
-        /// KeName 控件。
+        /// k_name 控件。
         /// </summary>
         /// <remarks>
         /// 自动生成的字段。
         /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
         /// </remarks>
-        protected global::System.Web.UI.WebControls.DropDownList KeName;
+        protected global::System.Web.UI.WebControls.DropDownList k_name;
 
         /// <summary>
-        /// chengji 控件。
+        /// k_cj 控件。
         /// </summary>
         /// <remarks>
         /// 自动生成的字段。
         /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlInputText chengji;
+        protected global::System.Web.UI.HtmlControls.HtmlInputText k_cj;
 
         /// <summary>
         /// ErrMsg 控件。
@@ -85,14 +85,5 @@ namespace S.Views.Admin
         /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
         /// </remarks>
         protected global::System.Web.UI.WebControls.GridView ManufactList;
-
-        /// <summary>
-        /// SqlDataSource1 控件。
-        /// </summary>
-        /// <remarks>
-        /// 自动生成的字段。
-        /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.SqlDataSource SqlDataSource1;
     }
 }

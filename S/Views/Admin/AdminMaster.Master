@@ -38,28 +38,41 @@
                 <div class="p-2">
                     <%--这里分类了--%>
                     <div class="mb-3">
-                        <img src="#" height="53px" width="28px" />
-                        <a href="#">
-                            <label>学生信息</label>
-                        </a>
+
+                        <%--<asp:Image ID="Image1" runat="server" ImageUrl="../Assets/Images/S.jpeg"  height="53px" width="28px"/>--%>
+                        <img src="../Assets/Images/S.jpeg" id="Img1" runat="server" style="height: 53px; width: 28px" />
+                        <%--<a href="grade.aspx"> </a>--%>
+
+
+                        <asp:HyperLink ID="HyperLink3" runat="server" NavigateUrl="~/Views/Admin/student.aspx">
+                                <label>学生信息</label>
+                        </asp:HyperLink>
                     </div>
 
                     <div class="mb-3">
-                        <img src="#" height="53px" width="28px" />
-                        <a href="#">
-                            <label>班级管理</label>
-                        </a>
+
+                        <img src="../Assets/Images/C.jpg" id="Img2" runat="server" style="height: 53px; width: 28px" />
+
+
+                        <asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl="~/Views/Admin/class.aspx">
+                                <label>班级管理</label>
+                        </asp:HyperLink>
                     </div>
 
                     <div class="mb-3">
-                        <img src="#" height="53px" width="28px" />
-                        <a href="#">
-                            <label>成绩管理</label>
-                        </a>
+
+                        <img src="../Assets/Images/G.jpeg" id="Img3" runat="server" style="height: 53px; width: 28px" />
+
+
+                        <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/Views/Admin/grade.aspx">
+                                <label>成绩管理</label>
+                        </asp:HyperLink>
                     </div>
 
                     <div class="mb-3">
-                        <img src="#" height="53px" width="28px" />
+                        <img src="../Assets/Images/L.jpg" id="Img4" runat="server" style="height: 53px; width: 28px" />
+
+
                         <a href="#">
                             <label>退出</label>
                         </a>
@@ -68,7 +81,7 @@
 
             </div>
 
-
+            <%--自定义·内容--%>
             <div class="col-10">
                 <form id="form1" runat="server">
                     <div>

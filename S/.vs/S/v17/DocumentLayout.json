@@ -1,19 +1,105 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\student-management-system\\S\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA0EDB7-0AE4-4417-8ACD-6B0944EE4421}|S.csproj|E:\\student-management-system\\S\\views\\admin\\grade.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DDA0EDB7-0AE4-4417-8ACD-6B0944EE4421}|S.csproj|solutionrelative:views\\admin\\grade.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA0EDB7-0AE4-4417-8ACD-6B0944EE4421}|S.csproj|e:\\student-management-system\\s\\views\\admin\\grade.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDA0EDB7-0AE4-4417-8ACD-6B0944EE4421}|S.csproj|solutionrelative:views\\admin\\grade.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA0EDB7-0AE4-4417-8ACD-6B0944EE4421}|S.csproj|e:\\student-management-system\\s\\views\\admin\\class.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DDA0EDB7-0AE4-4417-8ACD-6B0944EE4421}|S.csproj|solutionrelative:views\\admin\\class.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA0EDB7-0AE4-4417-8ACD-6B0944EE4421}|S.csproj|e:\\student-management-system\\s\\views\\admin\\adminmaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{DDA0EDB7-0AE4-4417-8ACD-6B0944EE4421}|S.csproj|solutionrelative:views\\admin\\adminmaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA0EDB7-0AE4-4417-8ACD-6B0944EE4421}|S.csproj|E:\\student-management-system\\S\\models\\functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDA0EDB7-0AE4-4417-8ACD-6B0944EE4421}|S.csproj|solutionrelative:models\\functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 95,
-          "SelectedChildIndex": -1,
+          "DockedHeight": 218,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "class.aspx",
+              "DocumentMoniker": "E:\\student-management-system\\S\\Views\\Admin\\class.aspx",
+              "RelativeDocumentMoniker": "Views\\Admin\\class.aspx",
+              "ToolTip": "E:\\student-management-system\\S\\Views\\Admin\\class.aspx",
+              "RelativeToolTip": "Views\\Admin\\class.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-12T13:07:51.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "grade.aspx",
+              "DocumentMoniker": "E:\\student-management-system\\S\\Views\\Admin\\grade.aspx",
+              "RelativeDocumentMoniker": "Views\\Admin\\grade.aspx",
+              "ToolTip": "E:\\student-management-system\\S\\Views\\Admin\\grade.aspx",
+              "RelativeToolTip": "Views\\Admin\\grade.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-11T10:40:36.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "grade.aspx.cs",
+              "DocumentMoniker": "E:\\student-management-system\\S\\Views\\Admin\\grade.aspx.cs",
+              "RelativeDocumentMoniker": "Views\\Admin\\grade.aspx.cs",
+              "ToolTip": "E:\\student-management-system\\S\\Views\\Admin\\grade.aspx.cs",
+              "RelativeToolTip": "Views\\Admin\\grade.aspx.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAADwvycAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T11:52:32.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Functions.cs",
+              "DocumentMoniker": "E:\\student-management-system\\S\\Models\\Functions.cs",
+              "RelativeDocumentMoniker": "Models\\Functions.cs",
+              "ToolTip": "E:\\student-management-system\\S\\Models\\Functions.cs",
+              "RelativeToolTip": "Models\\Functions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T11:43:38.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminMaster.Master",
+              "DocumentMoniker": "E:\\student-management-system\\S\\Views\\Admin\\AdminMaster.Master",
+              "RelativeDocumentMoniker": "Views\\Admin\\AdminMaster.Master",
+              "ToolTip": "E:\\student-management-system\\S\\Views\\Admin\\AdminMaster.Master",
+              "RelativeToolTip": "Views\\Admin\\AdminMaster.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-12T12:25:20.383Z",
+              "EditorCaption": ""
             }
           ]
         }

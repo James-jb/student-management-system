@@ -16,6 +16,7 @@ namespace S.Models
         private string ConStr;
 
         public Functions() {
+            //这里是地址吗
             ConStr = @"";
 
             Con = new SqlConnection(ConStr);
@@ -40,8 +41,10 @@ namespace S.Models
             {
                 Con.Open();
             }
+
             Cmd.CommandText = Query;
             cnt = Cmd.ExecuteNonQuery();
+            Con.Close();
             return cnt;
         }
 
